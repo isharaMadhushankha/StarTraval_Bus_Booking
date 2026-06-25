@@ -11,11 +11,61 @@
 
 ## 📸 UI Screenshots & Demo
 
-Passenger App (Booking) 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" />
+### 📱 Passenger App (Booking Flow)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="250" alt="Passenger Home"/>
+      <br><sub><b>Home / Route Search</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Passenger+Seat+Selection" width="250" alt="Seat Selection"/>
+      <br><sub><b>Dynamic Seat Matrix</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Passenger+Ticket+View" width="250" alt="Ticket / PDF"/>
+      <br><sub><b>Digital Boarding Pass</b></sub>
+    </td>
+  </tr>
+</table>
 
-Conductor Dashboard (Live)
-Fleet Admin Monitor 
+### 🧑‍✈️ Conductor Dashboard (Live Tracking)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Conductor+Login" width="250" alt="Conductor Login"/>
+      <br><sub><b>Conductor Auth</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Conductor+Active+Trip" width="250" alt="Active Trip"/>
+      <br><sub><b>Live Pulse Indicator</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Conductor+Map+Share" width="250" alt="Map Sharing"/>
+      <br><sub><b>GPS Telemetry Broadcast</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 💻 Fleet Admin Monitor (Management)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Admin+Dashboard" width="250" alt="Admin Dashboard"/>
+      <br><sub><b>Live Fleet Monitor</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Admin+Bus+Assign" width="250" alt="Bus Assignment"/>
+      <br><sub><b>Bus & Route Management</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x530?text=Admin+Reports" width="250" alt="Reports"/>
+      <br><sub><b>Transaction Analytics</b></sub>
+    </td>
+  </tr>
+</table>
+
+> 🎥 **Video Demonstration:** [Click here to watch the complete walkthrough on YouTube](YOUR_YOUTUBE_LINK_HERE)
  
 > 🎥 **Video Demonstration:** [Click here to watch the complete walkthrough on YouTube](YOUR_YOUTUBE_LINK_HERE)
 
