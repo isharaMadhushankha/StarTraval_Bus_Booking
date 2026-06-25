@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="210" alt="Passenger Home"/>
+      <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="230" alt="Passenger Home"/>
       <br><sub><b>1. Home / Route Search</b></sub>
     </td>
     <td align="center" width="25%">
