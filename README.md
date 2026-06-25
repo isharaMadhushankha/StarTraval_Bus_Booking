@@ -75,7 +75,7 @@
       <br><sub><b>4. Reports & Analytics</b></sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://via.placeholder.com/210x440?text=Admin+Reports" width="210" alt="Transaction Analytics"/>
+      <img src="https://github.com/user-attachments/assets/50cf1a64-c82d-48cd-9632-5ee9c613b3d2" width="210" alt="Transaction Analytics"/>
       <br><sub><b>4. Reports & Analytics</b></sub>
     </td>
   </tr>
