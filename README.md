@@ -58,24 +58,29 @@
 ### 💻 Fleet Admin Monitor (Management)
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Admin+Login" width="210" alt="Admin Login"/>
-      <br><sub><b>1. Secure Admin Login</b></sub>
+    <td align="center" width="20%">
+      <img src="https://github.com/user-attachments/assets/ca9f209b-6550-4d35-8c63-cdea882da99e" width="210" alt="Admin Login"/>
+      <br><sub><b>1. Admin Dashboardf</b></sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Admin+Dashboard" width="210" alt="Live Fleet Monitor"/>
-      <br><sub><b>2. Live Fleet Overview</b></sub>
+    <td align="center" width="20%">
+      <img src="https://github.com/user-attachments/assets/cf2261ff-467c-47d5-913b-3d0ea1d0f0c4"  width="210" alt="Live Fleet Monitor"/>
+      <br><sub><b>2. Edit Bus Details</b></sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Admin+Bus+Assign" width="210" alt="Bus & Route Management"/>
-      <br><sub><b>3. Conductor & Bus Assignment</b></sub>
+    <td align="center" width="20%">
+      <img src="https://github.com/user-attachments/assets/c9431afa-0511-461e-b0dd-808261e2cfc1" width="210" alt="Bus & Route Management"/>
+      <br><sub><b>3. Assign the Conductor</b></sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <img src="https://github.com/user-attachments/assets/8a859e63-09d2-42b4-93ad-456ab411348d" width="210" alt="Transaction Analytics"/>
+      <br><sub><b>4. Reports & Analytics</b></sub>
+    </td>
+    <td align="center" width="20%">
       <img src="https://via.placeholder.com/210x440?text=Admin+Reports" width="210" alt="Transaction Analytics"/>
       <br><sub><b>4. Reports & Analytics</b></sub>
     </td>
   </tr>
 </table>
+
 
 > 🎥 **Video Demonstration:** [Click here to watch the complete walkthrough on YouTube](YOUR_YOUTUBE_LINK_HERE)
  
