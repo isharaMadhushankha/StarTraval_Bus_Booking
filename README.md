@@ -11,20 +11,26 @@
 
 ## 📸 UI Screenshots & Demo
 
+## 📸 UI Screenshots & Demo
+
 ### 📱 Passenger App (Booking Flow)
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="250" alt="Passenger Home"/>
-      <br><sub><b>Home / Route Search</b></sub>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="210" alt="Passenger Home"/>
+      <br><sub><b>1. Home / Route Search</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="250" alt="Passenger Home"/>
-      <br><sub><b>Dynamic Seat Matrix</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Passenger+Bus+List" width="210" alt="Bus Results List"/>
+      <br><sub><b>2. Bus Results List</b></sub>
     </td>
-    <td align="center" width="33%">
-     <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="250" alt="Passenger Home"/>
-      <br><sub><b>Digital Boarding Pass</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Passenger+Seat+Selection" width="210" alt="Seat Selection Matrix"/>
+      <br><sub><b>3. Dynamic Seat Matrix</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Passenger+Ticket+View" width="210" alt="Ticket / PDF View"/>
+      <br><sub><b>4. Digital Boarding Pass</b></sub>
     </td>
   </tr>
 </table>
@@ -32,17 +38,21 @@
 ### 🧑‍✈️ Conductor Dashboard (Live Tracking)
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/250x530?text=Conductor+Login" width="250" alt="Conductor Login"/>
-      <br><sub><b>Conductor Auth</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Conductor+Login" width="210" alt="Conductor Login"/>
+      <br><sub><b>1. Conductor Auth / Login</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/250x530?text=Conductor+Active+Trip" width="250" alt="Active Trip"/>
-      <br><sub><b>Live Pulse Indicator</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Conductor+Trip+Select" width="210" alt="Trip Selection"/>
+      <br><sub><b>2. Assigned Trip Select</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/250x530?text=Conductor+Map+Share" width="250" alt="Map Sharing"/>
-      <br><sub><b>GPS Telemetry Broadcast</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Conductor+Active+Dashboard" width="210" alt="Active Dashboard"/>
+      <br><sub><b>3. Live Pulse Dashboard</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Conductor+GPS+Stream" width="210" alt="GPS Telemetry Broadcast"/>
+      <br><sub><b>4. Real-time Map Stream</b></sub>
     </td>
   </tr>
 </table>
@@ -50,17 +60,21 @@
 ### 💻 Fleet Admin Monitor (Management)
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/250x530?text=Admin+Dashboard" width="250" alt="Admin Dashboard"/>
-      <br><sub><b>Live Fleet Monitor</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Admin+Login" width="210" alt="Admin Login"/>
+      <br><sub><b>1. Secure Admin Login</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/250x530?text=Admin+Bus+Assign" width="250" alt="Bus Assignment"/>
-      <br><sub><b>Bus & Route Management</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Admin+Dashboard" width="210" alt="Live Fleet Monitor"/>
+      <br><sub><b>2. Live Fleet Overview</b></sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://via.placeholder.com/250x530?text=Admin+Reports" width="250" alt="Reports"/>
-      <br><sub><b>Transaction Analytics</b></sub>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Admin+Bus+Assign" width="210" alt="Bus & Route Management"/>
+      <br><sub><b>3. Conductor & Bus Assignment</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/210x440?text=Admin+Reports" width="210" alt="Transaction Analytics"/>
+      <br><sub><b>4. Reports & Analytics</b></sub>
     </td>
   </tr>
 </table>
