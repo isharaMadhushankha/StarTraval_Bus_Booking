@@ -20,11 +20,11 @@
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/e6e20ecf-3c54-4d8a-bc55-984ec557bfb1" width="250" alt="Passenger Home"/>
-      <br><sub><b>2. Bus Results List</b></sub>
+      <br><sub><b>2. Dynamic Seat Matrix</b></sub>
     </td>
     <td align="center" width="25%">
        <img src="https://github.com/user-attachments/assets/d49a33ab-3f5c-4717-93f1-73611321efab" width="250" alt="Passenger Home"/>
-      <br><sub><b>3. Dynamic Seat Matrix</b></sub>
+      <br><sub><b>3. Live Location Tracking</b></sub>
     </td>
     <td align="center" width="25%">
        <img src="https://github.com/user-attachments/assets/d49e73cc-012f-45b9-8870-38cb31a2c9c7" width="250" alt="Passenger Home"/>
