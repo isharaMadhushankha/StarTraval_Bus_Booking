@@ -13,7 +13,8 @@
 
 | Passenger App (Booking) | Conductor Dashboard (Live) | Fleet Admin Monitor |
 | :---: | :---: | :---: |
-| `<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/283a70aa-9b74-478e-b00d-b4699765f4d2" />` 
+| `<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/13f1a53f-a20e-45c9-bfa6-3df730bcaf57" />
+` 
 | `[Insert Screenshot 2: Conductor Map]` | `[Insert Screenshot 3: Admin Console]` |
 | *Smooth Seat Selection UI* | *Live Location Streaming* | *Fleet Management Dashboard* |
 
