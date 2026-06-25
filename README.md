@@ -30,7 +30,6 @@
        <img src="https://github.com/user-attachments/assets/d49e73cc-012f-45b9-8870-38cb31a2c9c7" width="250" alt="Passenger Home"/>
       <br><sub><b>4. Digital Boarding Pass</b></sub>
     </td>
-    
   </tr>
 </table>
 
@@ -38,19 +37,19 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Conductor+Login" width="210" alt="Conductor Login"/>
+      <img src="https://github.com/user-attachments/assets/b52b6e8d-7679-46a2-b9b1-18c77c777053" width="210" alt="Conductor Login"/>
       <br><sub><b>1. Conductor Auth / Login</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Conductor+Trip+Select" width="210" alt="Trip Selection"/>
+      <img src="https://github.com/user-attachments/assets/9133bab7-87dd-4636-bbd0-d8fafe17684d" width="210" alt="Trip Selection"/>
       <br><sub><b>2. Assigned Trip Select</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Conductor+Active+Dashboard" width="210" alt="Active Dashboard"/>
+      <img src="https://github.com/user-attachments/assets/6072ed9d-81d5-445c-af5b-9b4d05210de1" width="210" alt="Active Dashboard"/>
       <br><sub><b>3. Live Pulse Dashboard</b></sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Conductor+GPS+Stream" width="210" alt="GPS Telemetry Broadcast"/>
+      <img src="https://github.com/user-attachments/assets/10a1a6d5-568e-45dc-a68a-706c390ecbcd" width="210" alt="GPS Telemetry Broadcast"/>
       <br><sub><b>4. Real-time Map Stream</b></sub>
     </td>
   </tr>
